@@ -1,2 +1,1 @@
-Rebase
-new line
+Rebase2
